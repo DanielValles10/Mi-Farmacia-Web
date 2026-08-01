@@ -1,31 +1,6 @@
-->Temozolomida
-$usos:
--Linfomas
--Cáncer de mama
--Sarcomas 
--Lupus
-$advertencias:
--no consumir con leche
--> otro
-$usos: diuda
-->Temozolomida intravenosa
-->aspirina
-$Usos: fkmñegfklengñoejge
-$Farmacodinamia:fkmñegfklengñoejge
-$Farmacinetica:fkmñegfklengñoejge
-$Advertencias:fkmñegfklengñoejge
-->aspartato
-$Usos: fkmñegfklengñoejge
-$Farmacodinamia:fkmñegfklengñoejge
-$Farmacinetica:fkmñegfklengñoejge
-$Advertencias:fkmñegfklengñoejge
-->asporasa
-$Usos: fkmñegfklengñoejge
-$Farmacodinamia:fkmñegfklengñoejge
-$Farmacinetica:fkmñegfklengñoejge
-$Advertencias:fkmñegfklengñoejge
-->aspota
-$Usos: fkmñegfklengñoejge
-$Farmacodinamia:fkmñegfklengñoejge
-$Farmacinetica:fkmñegfklengñoejge
-$Advertencias:fkmñegfklengñoejge
+->Gentamicina
+$usos: gram (-), E.coli, Klebsiella, Pseudomona, NO anaerobios
+$otros usos: combinada con B-lactamicos para endocarditis o sepsis
+$Farmacodinamia: se unen a 30s 
+$Farmacocinetica: eliminación 100% renal
+$consideraciones: requiere transportador dependiente de oxigeno, no es bueno en bacterias anaerobias

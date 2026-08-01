@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Farmacia Web</title>
+    <!-- Aquí conectamos el CSS -->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Farmacoenciclopedia</h1>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Escribe el nombre del medicamento..." autocomplete="off">
+            <div id="suggestions"></div>
+        </div>
+
+        <div id="medDisplay">
+            <!-- Aquí aparecerá la tarjeta del medicamento seleccionado -->
+        </div>
+    </div>
+
+    <!-- Aquí conectamos el JavaScript al final del body -->
+    <script src="main.js"></script>
+</body>
+</html>

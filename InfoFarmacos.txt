@@ -1,0 +1,31 @@
+->Temozolomida
+$usos:
+-Linfomas
+-Cáncer de mama
+-Sarcomas 
+-Lupus
+$advertencias:
+-no consumir con leche
+-> otro
+$usos: diuda
+->Temozolomida intravenosa
+->aspirina
+$Usos: fkmñegfklengñoejge
+$Farmacodinamia:fkmñegfklengñoejge
+$Farmacinetica:fkmñegfklengñoejge
+$Advertencias:fkmñegfklengñoejge
+->aspartato
+$Usos: fkmñegfklengñoejge
+$Farmacodinamia:fkmñegfklengñoejge
+$Farmacinetica:fkmñegfklengñoejge
+$Advertencias:fkmñegfklengñoejge
+->asporasa
+$Usos: fkmñegfklengñoejge
+$Farmacodinamia:fkmñegfklengñoejge
+$Farmacinetica:fkmñegfklengñoejge
+$Advertencias:fkmñegfklengñoejge
+->aspota
+$Usos: fkmñegfklengñoejge
+$Farmacodinamia:fkmñegfklengñoejge
+$Farmacinetica:fkmñegfklengñoejge
+$Advertencias:fkmñegfklengñoejge

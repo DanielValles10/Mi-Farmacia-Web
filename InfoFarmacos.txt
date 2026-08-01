@@ -1,6 +1,0 @@
-->Gentamicina
-$usos: gram (-), E.coli, Klebsiella, Pseudomona, NO anaerobios
-$otros usos: combinada con B-lactamicos para endocarditis o sepsis
-$Farmacodinamia: se unen a 30s 
-$Farmacocinetica: eliminación 100% renal
-$consideraciones: requiere transportador dependiente de oxigeno, no es bueno en bacterias anaerobias
